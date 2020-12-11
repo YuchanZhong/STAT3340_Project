@@ -15,6 +15,10 @@ data.zip:
   --compressed -o data.zip 
 	mkdir data
 	unzip data.zip -d data
+	Rscript -e "rmarkdown::render('./src/3340_project_compeleted.Rmd')"
+	rm ./src/3340_project_compeleted.tex
+	mv ./src/3340_project_compeleted.pdf ./3340_project_compeleted.pdf
 clean:
 	rm -rf data
 	rm data.zip
+	rm ./3340_project_compeleted.pdf
