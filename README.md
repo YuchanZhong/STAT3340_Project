@@ -1,6 +1,6 @@
 # ANALYSIS OF DATASET 5 BY Group 22
 
-author: 
+# Contributors 
         - Zonglin Wu (B00764717)                      
         - Ziwei Wang (B00776666)
         - Yuchan Zhong (B00791155)
