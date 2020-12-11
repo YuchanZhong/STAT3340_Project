@@ -20,5 +20,9 @@ As a result, the top 20 undervalued stocks which investors can buy into are foun
   - knitr
   
 # Usage
-  ### make - create a pdf report for the project
-  ### make clean - clean the data of project
+  open a terminal and goto the root directory of repo.
+  do 
+    make:
+      create a pdf report. (needs network)
+    make clean:
+      clean all data used in report and pdf.
