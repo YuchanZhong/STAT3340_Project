@@ -21,8 +21,7 @@ As a result, the top 20 undervalued stocks which investors can buy into are foun
   
 # Usage
   open a terminal and goto the root directory of repo.
-  do 
-    make:
-      create a pdf report. (needs network)
-    make clean:
-      clean all data used in report and pdf.
+  - make:
+    create a pdf report. (needs network)
+  - make clean:
+    clean all data used in report and pdf.
