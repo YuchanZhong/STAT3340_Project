@@ -16,6 +16,7 @@ As a result, the top 20 undervalued stocks which investors can buy into are foun
 
 # Requirements
   - Rstudio
+  - Rmarkdown
   - lubridate
   - car
   - leaps
