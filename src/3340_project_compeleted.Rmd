@@ -37,9 +37,9 @@ library(knitr)
 
 #data input
 
-fundamental<-read.csv("D:/WUDOU/course/STAT_3340_Project/fundamentals.csv",header=TRUE)
-price_s<-read.csv("D:/WUDOU/course/STAT_3340_Project/prices-split-adjusted.csv",header=TRUE)
-security<-read.csv("D:/WUDOU/course/STAT_3340_Project/securities.csv",header=TRUE)
+fundamental<-read.csv("../data/fundamentals.csv",header=TRUE)
+price_s<-read.csv("../data/prices-split-adjusted.csv",header=TRUE)
+security<-read.csv("../data/securities.csv",header=TRUE)
 ```
 
 <br>
